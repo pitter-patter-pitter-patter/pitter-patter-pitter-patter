@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pitter-patter-pitter-patter
 - 👀 I’m interested in js, python, php & go.
-- 🌱 I’m currently learning sailing, play piano and coding. 
+- 🌱 I’m currently learning sailing and play piano. 
 - 💞️ I’m looking to collaborate on music projects.
 
 <!---
